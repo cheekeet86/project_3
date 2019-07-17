@@ -1,0 +1,7 @@
+
+[Requirements]
+
+1. title of thread
+2. the subreddit the thread corresponds to
+3. length of time up in reddit
+4. the number of comments on the thread
