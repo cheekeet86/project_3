@@ -16,8 +16,8 @@
 
 | Variable Name | Default Value | Description |
 | --- | --- | --- |
-| scape_data | False | False: Load json files from input folder \n True: Scape data from Reddit and save as json files |
-| scape_index | 0 | 0: Scape data from subreddits[0] if scape_data=True \n 
+| scape_data | False | True: Scape data from Reddit and save as json files<br>False: Load json files from input folder |
+| scape_index | 0 | if scape_data=True<br>0: Scape data from subreddits[0]<br>1: Scape data from subreddits[1] |
 | **2** | *Project meets expectations; few (and relatively minor) mistakes.* |
 | **3** | *Project demonstrates a thorough understanding of all of the considerations outlined.* |
 
