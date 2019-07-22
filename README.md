@@ -20,7 +20,7 @@
 | scape_index | 0 | if scape_data=True<br>0: Scape data from subreddits[0]<br>1: Scape data from subreddits[1] |
 | num_requests | 50 | Number of Reddit API requests<br>Note: 25 posts are scaped per request. |
 | posts_limit | 900 | Number of Posts used (per Subreddit) to build models |
-| subreddits | [boardgames,mobilegames] | Subreddits List |
+| subreddits | [ boardgames , mobilegames ] | Subreddits List |
 | url | https://www.reddit.com/r/ | Base URL for scaping |
 | headers | User-agent':'Bleep blorp bot 0.1 | User Agent Settings |
 | features | title | title: post header<br>selftext: post content |
