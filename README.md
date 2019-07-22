@@ -18,8 +18,12 @@
 | --- | --- | --- |
 | scape_data | False | True: Scape data from Reddit and save as json files<br>False: Load json files from input folder |
 | scape_index | 0 | if scape_data=True<br>0: Scape data from subreddits[0]<br>1: Scape data from subreddits[1] |
-| **2** | *Project meets expectations; few (and relatively minor) mistakes.* |
-| **3** | *Project demonstrates a thorough understanding of all of the considerations outlined.* |
+| num_requests | 50 | Number of Reddit API requests<br>Note: 25 posts are scaped per request. |
+| posts_limit | 900 | Number of Posts used (per Subreddit) to build models |
+| subreddits | ['boardgames','mobilegames'] | Subreddits List |
+| url | https://www.reddit.com/r/ | Base URL for scaping |
+| headers | User-agent':'Bleep blorp bot 0.1 | User Agent Settings |
+| features | title | title:post header<br>selftext:post content |
 
 ### Executive Summary
 
