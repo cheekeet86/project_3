@@ -2,9 +2,9 @@
 
 ### Problem Statement
 
--
--
--
+- To utilize the Reddit API to scape posts automatically from 2 Subreddits i.e. Board Games and Mobile Games.
+- To create and compare 2 Classification models. The models predict which Subreddit a specific post came from. 
+- To identify trending games for conversion e.g. from board to mobile games and vice-versa.
 
 ### Data Collection
 
