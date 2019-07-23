@@ -31,6 +31,6 @@ Link Here
 
 ### References
 
-[Reddit API](https://www.reddit.com/dev/api/)
-[Board Games Subreddit](https://www.reddit.com/r/boardgames/)
-[Mobile Games Subreddit]((https://www.reddit.com/r/mobilegames/)
+[Reddit API](https://www.reddit.com/dev/api/)<br>
+[Board Games Subreddit](https://www.reddit.com/r/boardgames/)<br>
+[Mobile Games Subreddit](https://www.reddit.com/r/mobilegames/)
