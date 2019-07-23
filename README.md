@@ -8,8 +8,8 @@
 
 ### Data Collection
 
-- The posts are scaped using the Reddit API (https://www.reddit.com/dev/api/).
-- The posts are scaped from 2 popular Subreddits i.e. Board Games (https://www.reddit.com/r/boardgames/) and Mobile Games (https://www.reddit.com/r/mobilegames/) with 2.1 million and 2.8k members respectively.
+- The posts are scaped using the Reddit API .
+- The posts are scaped from 2 popular Subreddits i.e. Board Games and Mobile Games with 2.1 million and 2.8k members respectively.
 - The Reddit API extracts the posts in JSON format and the posts are stored as json files for future analyssis.
 
 ### User Configurations
@@ -27,4 +27,10 @@
 
 ### Executive Summary
 
-Link:
+Link Here
+
+### References
+
+[Reddit API](https://www.reddit.com/dev/api/)
+[Board Games Subreddit](https://www.reddit.com/r/boardgames/)
+[Mobile Games Subreddit]((https://www.reddit.com/r/mobilegames/)
