@@ -23,7 +23,6 @@
 | subreddits | [ boardgames , mobilegames ] | Subreddits List |
 | url | https://www.reddit.com/r/ | Base URL for scaping |
 | headers | User-agent:Bleep blorp bot 0.1 | User Agent Settings |
-| features | title | title: post header<br>selftext: post content |
 
 ### Executive Summary
 
