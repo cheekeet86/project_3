@@ -1,6 +1,6 @@
 # Executive Summary
 
-In recent years we have seen a proliferation of mobile games, eSports (making their debut in the 2019 South-East Asian Games in Manila) and hydrid games (boardgame-theme mobile games). For example, my team has observed growing popularities of various gaming forums in Reddit.com (a social media news platform).
+In recent years we have seen a proliferation of mobile games, eSports (making their debut in the 2019 South-East Asian Games in Manila) and hydrid games (boardgame-themed mobile games). For example, my team has observed growing popularities of various gaming forums in Reddit.com (a social media news platform).
 
 My team has recently developed a machine learning model which classify Reddit posts (from gaming Subreddits) with a high accuracy of 89%. In addition, we have also conducted sentiment analysis for gaming posts.
 
