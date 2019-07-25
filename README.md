@@ -3,7 +3,7 @@
 ### Problem Statement
 
 - To utilize the Reddit API to scape posts automatically from 2 Subreddits.
-- To create and compare 2 Classification models. The models predict which Subreddit a specific post came from. 
+- To create and compare different classification models. The models predict which Subreddit a specific post came from. 
 - To perform sentiment analysis on post contents. Provide advertising strategies for customers.
 
 ### Data Collection
