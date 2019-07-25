@@ -1,35 +1,9 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & Classification
+# Executive Summary
 
-### Problem Statement
+In recent years we have seen a proliferation of mobile games, eSports (making their debut in the 2019 South-East Asian Games in Manila) and hydrid games (boardgame-theme mobile games). For example, my team has observed growing popularities of various gaming forums in Reddit.com (a social media news platform).
 
-- To utilize the Reddit API to scape posts automatically from 2 Subreddits.
-- To create and compare different classification models. The models predict which Subreddit a specific post came from. 
-- To perform sentiment analysis on post contents. Provide advertising strategies for customers.
+My team has recently developed a machine learning model which classify Reddit posts (from gaming Subreddits) with a high accuracy of 89%. In addition, we have also conducted sentiment analysis for gaming posts.
 
-### Data Collection
+My team will be keen to work with your company to develop new marketing strategies. Firstly, we will continue to enhance our ML model and sentiment analysis tool. The objective is to gather insights from posts (e.g. what makes a game popular) and evaluate if any boardgames created by your company (e.g. the popular puzzle boardgame "Water Pipe Rodents") can be converted to a mobile game.
 
-- The posts are scaped using the Reddit API.
-- The posts are scaped from 2 popular Subreddits i.e. Board Games and Mobile Games with 2.1 million and 2.8k members respectively.
-- The Reddit API extracts the posts in JSON format and the posts are stored as json files for future analysis.
 
-### User Configurations
-
-| Variable Name | Default Value | Description |
-| --- | --- | --- |
-| scape_data | False | True: Scape data from Reddit and save as json files<br>False: Load json files from input folder |
-| scape_index | 0 | if scape_data=True:<br>0: Scape data from subreddits[0]<br>1: Scape data from subreddits[1] |
-| num_requests | 50 | Number of Reddit API requests<br>Note: 25 posts are scaped per request. |
-| posts_limit | 900 | Number of Posts used (per Subreddit) to build models |
-| subreddits | [ boardgames , mobilegames ] | Subreddits List |
-| url | https://www.reddit.com/r/ | Base URL for scaping |
-| headers | User-agent:Bleep blorp bot 0.1 | User Agent Settings |
-
-### Executive Summary
-
-Link Here
-
-### References
-
-[Reddit API](https://www.reddit.com/dev/api/)<br>
-[Board Games Subreddit](https://www.reddit.com/r/boardgames/)<br>
-[Mobile Games Subreddit](https://www.reddit.com/r/mobilegames/)
