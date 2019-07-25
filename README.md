@@ -26,7 +26,7 @@
 
 ### Executive Summary
 
-[Click Here](documents/Executive-Summary.md)
+[Click Here](documents/Executive%20Summary.md)
 
 ### References
 
